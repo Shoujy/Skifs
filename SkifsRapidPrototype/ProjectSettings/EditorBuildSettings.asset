@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Project/Scenes/MainMenu/SceneTemplate.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/_Project/Scenes/Skif/Skif.unity
+    guid: 21d1fb49a57f1cc48be2b700ea9856eb
+  - enabled: 1
+    path: Assets/_Project/Scenes/Skif/Training.unity
+    guid: 7874b4705d05d314cba69105c6a037c8
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/Duel.unity
+    guid: 2e976e00a5db531429dfded384e1f658
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/SilverHorsemen.unity
+    guid: 26ed098f99cbb124e9e870a9a7f7f11e
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/CrystalHorsemen.unity
+    guid: 90129231227ed0a428f0a67667914a62
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/GoldenHorsemen.unity
+    guid: 23bcf7fa8ffc21b4a98551465f3da5be
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/EquelPlayer.unity
+    guid: 1b73abcd0aae75241b7a3ed2978485d6
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/SmallerPlayer.unity
+    guid: 5534cf16c6e537c42b4e893c36c3dae9
+  - enabled: 1
+    path: Assets/_Project/Scenes/Duel/BiggerPlayer.unity
+    guid: 49924592c60a6bf45b9f6481958073d0
+  m_configObjects: {}
